@@ -8,6 +8,6 @@ httpx==0.27.2
 pydantic==2.9.2
 tensorflow==2.18.0
 keras==3.5.0
-torch==2.3.0
+torch==2.8.0
 transformers==4.39.3
 tf-keras
