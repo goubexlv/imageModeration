@@ -9,5 +9,5 @@ pydantic==2.9.2
 tensorflow==2.18.0
 keras==3.5.0
 torch==2.3.0
-transformers==4.39.3
+transformers==4.53.0
 tf-keras
